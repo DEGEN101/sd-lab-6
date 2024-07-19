@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2020,
+        "color": "Red",
+        "engineType": "V6"
+    },
+    {
+        "id": 2,
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2019,
+        "color": "Blue",
+        "engineType": "I4"
+    },
+    {
+        "id": 3,
+        "make": "Ford",
+        "model": "Mustang",
+        "year": 2021,
+        "color": "Black",
+        "engineType": "V8"
+    },
+    {
+        "id": 4,
+        "make": "Tesla",
+        "model": "Model 3",
+        "year": 2022,
+        "color": "White",
+        "engineType": "Electric"
+    }
+]
